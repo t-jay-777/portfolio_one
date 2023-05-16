@@ -53,3 +53,9 @@ section {
     top: 0;
     padding: 3rem 18rem;
 }
+
+.section {
+    transform: translateY(-100%);
+    transition: all .4s ease-in-out;
+    color: var(--color-primary);
+}
