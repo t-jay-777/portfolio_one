@@ -17,7 +17,6 @@
   --color-grey-5: #2a2e35;
   --color-grey-6: #12181b;
   --br-sm-2: 14px;
-  --box-shadow-1: 0 3px 15px rgba(0, 0, 0, .4);
 }
 
 body {
@@ -86,11 +85,4 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0.7rem 0;
-  box-shadow: var(--box-shadow-1);
 }
-.controlls .control i {
-  font-size: 1.2rem;
-  color: var(--color-grey-2);
-  pointer-events: none;
-}/*# sourceMappingURL=style.css.map */
