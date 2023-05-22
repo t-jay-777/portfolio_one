@@ -7,5 +7,9 @@ const sectBtn = document.querySelector('.control');
 //select main content
 const allSelections = document.querySelectorAll('.main-content');
 
+function PageTransitions() {
+    //button click on active class
+
+}
 
 console.log(section);
